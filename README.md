@@ -1,0 +1,5 @@
+- 👋 Hi, I’m JudgeDev!
+- 👀 I’m interested in python codes.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on programming.
+- 📫 How to reach me? In my e-mail louigiplay@gmail.com. <!-- Yes, I created this e-mail when I was like 8 years old...
